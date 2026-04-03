@@ -133,7 +133,7 @@ The Ghaith Smart Humanitarian Relief Tent demonstrates how embedded systems can 
 - Water filtration modules
 
 ## 10. Team
-Al-Razi University – Embedded Systems Abrar
+Al-Razi University – Embedded Systems 
 Belqees Adel Jamil_15
 Abrar Marwan Al‑Dubai_2
 Raghad Eskander Mokbel_25 
